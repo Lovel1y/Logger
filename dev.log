@@ -1,0 +1,2 @@
+[2024-01-28T14:02:36.702328+00:00] request.INFO: Matched route "test_event". {"route":"test_event","route_parameters":{"_route":"test_event","_controller":"App\\Controller\\api\\test\\event\\TestEventController::index"},"request_uri":"http://127.0.0.1:35125/api/test/event?message=message","method":"GET"} []
+[2024-01-28T14:02:36.702734+00:00] app.INFO: message [] []
